@@ -55,6 +55,8 @@
     "typings": "^1.4.0",
     "webpack": "^1.13.2",
     "webpack-dev-server": "^1.16.1",
-    "webpack-merge": "^0.14.1"
+    "webpack-merge": "^0.14.1",
+    "less-loader":"^2.2.3",
+    "less":"^2.7.1"
   }
 }
